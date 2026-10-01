@@ -4,7 +4,7 @@ Welcome to my portfolio! I am a passionate developer currently learning and buil
 
 ## 🚀 About Me
   I'm currently exploring software development, data structures, and building full-stack applications.
-⚡ Fun fact: I love turning ideas into clean, functional code!
+  Fun fact: I love turning ideas into clean, functional code!
 
 ## 🛠️ Tech Stack & Skills
 <p>
@@ -20,4 +20,4 @@ Welcome to my portfolio! I am a passionate developer currently learning and buil
 Projects will be added here soon as I build them!*
 
 ## 📫 How to Reach Me
-- Feel free to check out my repositories or connect with me!
+ Feel free to check out my repositories or connect with me!
